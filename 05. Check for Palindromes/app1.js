@@ -1,4 +1,7 @@
 // Check for Palindromes
+// Ex. "Civic"
+// Ex. "Step on no pets"
+// Ex. "No lemon, no melon"
 
 function palindrome(str) {
     var front = 0;
